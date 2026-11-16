@@ -1,7 +1,7 @@
 <p align="center">
   <img src="../docs/images/paid_fr.png"
   alt="Interface du système de facturation Palks Studio : gestion et acquittement des factures"
-  width="1200">
+  width="600">
 </p>
 
 [![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=flat)](https://www.php.net/)
