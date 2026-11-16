@@ -1,7 +1,7 @@
 <p align="center">
   <img src="../docs/images/generateur-devis-fr.png"
        alt="Interface du générateur de devis gratuit Palks Studio : création de devis, calcul des taxes et génération PDF côté navigateur"
-       width="1200">
+       width="600">
 </p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
