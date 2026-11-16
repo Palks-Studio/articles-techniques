@@ -1,7 +1,7 @@
 <p align="center">
   <img src="../docs/images/inventory.png"
        alt="Rapport HTML généré par Project Inventory de Palks Studio : inventaire des technologies, dépendances, services et cartographie technique d'un projet logiciel"
-       width="1200">
+       width="600">
 </p>
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
