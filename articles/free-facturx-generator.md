@@ -1,7 +1,7 @@
 <p align="center">
   <img src="../docs/images/demo_facturx_fr.png"
        alt="Interface du générateur gratuit Factur-X EN16931 de Palks Studio : saisie des données de facturation, gestion de la TVA et génération de factures hybrides PDF/XML"
-       width="1200">
+       width="600">
 </p>
 
 ![Factur-X](https://img.shields.io/badge/Factur--X-EN16931-orange?style=flat)
