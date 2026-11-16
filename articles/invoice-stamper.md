@@ -1,7 +1,7 @@
 <p align="center">
   <img src="../docs/images/invoice_stamper_fr.png"
        alt="Interface du moteur d'acquittement de factures Palks Studio : traitement individuel et par lots des PDF, ajout de la date de paiement et génération des factures acquittées"
-       width="1200">
+       width="600">
 </p>
 
 [![PHP](https://img.shields.io/badge/PHP-8.0%2B-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
