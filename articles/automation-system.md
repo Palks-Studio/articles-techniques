@@ -1,7 +1,7 @@
 <p align="center">
   <img src="../docs/images/facture_sans_tva.png"
   alt="Exemple de facture Factur-X générée automatiquement par le moteur de facturation batch de Palks Studio"
-  width="1200">
+  width="600">
 </p>
 
 [![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=flat)](https://www.php.net/)
